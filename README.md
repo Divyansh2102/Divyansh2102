@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hey! 👋 </h1> <br><br> I'm Divyansh Jaiswal  <br> <ul>Currently : B.Tech Final Year (Graphic Era University)</ul><br>
+Hey! 👋<br><br> I'm Divyansh Jaiswal  <br> <ul>Currently : B.Tech Final Year (Graphic Era University)</ul><br>
 
 
 ## 🌐 Socials:
