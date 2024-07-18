@@ -5,7 +5,7 @@ Hey! 👋<br><br> I'm Divyansh Jaiswal  <br> <ul>Graduation : B.Tech CSE (Graphi
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-jaiswal-411137217) 
 
-[![Leetcode](https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/DeepanshuPanwar/) 
+<!--[![Leetcode](https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/DeepanshuPanwar/) -->
 
 
 
