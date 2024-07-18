@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! 👋<br><br> I'm Divyansh Jaiswal  <br> <ul>Currently : B.Tech Final Year (Graphic Era University)</ul><br>
+Hey! 👋<br><br> I'm Divyansh Jaiswal  <br> <ul>Graduation : B.Tech CSE (Graphic Era University , SGPA : 8.39/10 )</ul><br>
 
 
 ## 🌐 Socials:
